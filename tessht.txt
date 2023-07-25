@@ -1,1 +1,1 @@
-i am a Jenkins user
+This is a test message
